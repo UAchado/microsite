@@ -1,5 +1,2 @@
-cd uachado
-
 npm run build
-
-cd ..
+USE_SSH=true yarn deploy

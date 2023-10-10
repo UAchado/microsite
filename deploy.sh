@@ -1,2 +1,2 @@
-npm run build
-USE_SSH=true yarn deploy
+sudo yarn build
+sudo USE_SSH=true yarn deploy

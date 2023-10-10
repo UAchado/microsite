@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrosite=self.webpackChunkmicrosite||[]).push([[5079],{4892:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/microsite/blog/tags/facebook","allTagsPath":"/microsite/blog/tags","count":1}')}}]);

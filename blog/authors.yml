@@ -1,17 +1,24 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+paulo:
+  name: Paulo Pinto
+  url: https://github.com/Pjnp5
+  image_url: https://github.com/Pjnp5.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+manco:
+  name: Miguel Matos
+  url: https://github.com/mankings
+  image_url: https://github.com/mankings.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+raquel:
+  name: Raquel Paradinha
+  url: https://github.com/raquelparadinha
+  image_url: https://github.com/raquelparadinha.png
+
+canadiano:
+  name: Daniel Ferreira
+  url: https://github.com/dferrero17
+  image_url: https://github.com/dferrero17.png
+
+sora:
+  name: Raquel Paradinha
+  url: https://github.com/tiagosora
+  image_url: https://github.com/tiagosora.png

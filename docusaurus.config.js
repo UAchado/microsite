@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'UAchado',
-  favicon: 'img/logo_nameless.png',
+  favicon: 'https://github.com/UAchado.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -45,10 +45,10 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: "Sprints",
+          blogSidebarCount: "ALL",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -66,7 +66,7 @@ const config = {
         title: 'UAchado',
         logo: {
           alt: 'UAchado Logo',
-          src: 'img/logo_nameless.png',
+          src: 'https://github.com/UAchado.png',
         },
         items: [
           {
@@ -74,6 +74,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Documentation',
+          },
+          {
+            to: '/blog',
+            label: 'Sprints',
+            position: 'left',
           },
         ],
       },

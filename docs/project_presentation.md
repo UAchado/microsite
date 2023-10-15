@@ -19,3 +19,6 @@ By harnessing the power of technology, this initiative not only enhances the eff
 ## Architecture
 
 ![UAchado Architecture](/img/arquitetura.png)
+
+
+##

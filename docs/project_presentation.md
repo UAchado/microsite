@@ -21,4 +21,13 @@ By harnessing the power of technology, this initiative not only enhances the eff
 ![UAchado Architecture](/img/arquitetura.png)
 
 
-##
+## Tecnologies
+
+| Module | Tech |
+| --- | --- |
+| UI's | React + Docker |
+| SafePoints API | fastAPI + Docker + mySQL |
+| Report API | fastAPI + Docker + mySQL |
+| Inventory API | fastAPI + Docker + mySQL + AWS S3 |
+| Idp | AWS Cognito |
+| System Logs | AWS Cloudwatch |

@@ -15,6 +15,8 @@ By harnessing the power of technology, this initiative not only enhances the eff
 
 **Github Organization:** https://github.com/UAchado
 
+**Jira:** https://uachado.atlassian.net/jira/software/projects/UAC/boards/2 
+
 
 ## Architecture
 

@@ -12,14 +12,14 @@ In agile software development, the "Definition of Done" (DoD) is a crucial set o
 
 ## Our definition
 
-1. Acceptance criteria are clear and defined.
+1. Meets all story acceptance criteria.
 
-2. All dependencies are identified and planned for.
+2. Successfully passes functional tests if applicable.
 
-3. Story has been sized or estimated by the team.
+3. Clears the predefined quality gate.
 
-4. Requirements are clear with no ambiguities.
+4. PR reviewed and approved by a different team member.
 
-5. A basic feasibility check is completed.
+5. User documentation updated or added in Docusaurus.
 
-6. UI/UX mockups provided if applicable.
+6. Developer documentation updated or added in Docusaurus.

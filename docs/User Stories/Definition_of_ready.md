@@ -11,14 +11,14 @@ A user story is deemed ready for work when all the criteria outlined have been m
 
 ## Our definition
 
-1. Meets all story acceptance criteria.
+1. Acceptance criteria are clear and defined.
 
-2. Successfully passes functional tests if applicable.
+2. All dependencies are identified and planned for.
 
-3. Clears the predefined quality gate.
+3. Story has been sized or estimated by the team.
 
-4. PR reviewed and approved by a different team member.
+4. Requirements are clear with no ambiguities.
 
-5. User documentation updated or added in Docusaurus.
+5. A basic feasibility check is completed.
 
-6. Developer documentation updated or added in Docusaurus.
+6. UI/UX mockups provided if applicable.

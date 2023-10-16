@@ -91,26 +91,38 @@ const config = {
                 to: '/docs/project_presentation',
               },
               {
-                label: 'Jira',
-                to: 'https://uachado.atlassian.net/jira/software/projects/UAC/boards/2',
+                label: 'Sprint',
+                to: '/blog',
               },
             ],
+          },
+          {
+            title: ' ',
+          },
+          {
+            title: ' ',
+          },
+          {
+            title: ' ',
+          },
+          {
+            title: ' ',
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/UAchado',
+              },
+              {
+                label: 'Jira',
+                href: 'https://uachado.atlassian.net/jira/software/projects/UAC/boards/2',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ES`,
       },
       prism: {
         theme: lightCodeTheme,

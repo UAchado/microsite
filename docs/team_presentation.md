@@ -25,5 +25,5 @@ This is **Team 2** of Software Engineer course from 2023/2024:
 
 Teachers:
 - [**Rafael Direito**](https://github.com/rafael-direito)
-- [**Nuno Sá couto**](https://github.com//nunoscouto)
+- [**Nuno Sá Couto**](https://github.com//nunoscouto)
 

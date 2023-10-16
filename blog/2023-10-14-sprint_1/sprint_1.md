@@ -1,7 +1,7 @@
 ---
 slug: Sprint 1
 title: Sprint 1
-authors: [paulo]
+authors: [canadiano]
 ---
 
 # Sprint 1
@@ -26,10 +26,13 @@ In order to start our project, it is expectable to conclude the following sprint
 - Organize Backlog
 - Set the "Definition of Ready"
 - Set the "Definition of Done"
+- Locate a Drop-Off Point
+    - Create GET all Drop-Off Points endpoint
+    - Create webpage to display all the available drop-off points.
 
 | Expected Concluded| Quantity |
 | --- | --- |
-| Story Points: | 5 |
+| Story Points: | 6 |
 | Epics: | 0 |
 
 

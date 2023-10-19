@@ -32,7 +32,7 @@ In order to start our project, it is expectable to conclude the following sprint
 
 | Expected Concluded| Quantity |
 | --- | --- |
-| Story Points: | 6 |
+| Story Points: | 1 |
 | Epics: | 0 |
 
 
@@ -41,7 +41,7 @@ In order to start our project, it is expectable to conclude the following sprint
 
 | Concluded| Quantity |
 | --- | --- |
-| Story Points: | ? |
+| Story Points: | 0 |
 | Epics: | 0 |
 
 ## Sprint Retrospective

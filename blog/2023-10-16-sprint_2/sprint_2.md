@@ -82,3 +82,7 @@ We were able to create the foundations for an MVP that is meant to showcase the 
 The team's development workspaces were setup, along with code repositories and some complementary cloud applications, for aspects such as CI/CD and code analysis.
 
 We were able to develop a Terraform script that describes most of our cloud infrastructure on AWS, and enables us to programmatically provision and destroy it.
+
+## Sprint Burndown
+
+![Sprint 2 Burndown](https://media.discordapp.net/attachments/1153266163522994188/1168356686734561361/380661503_1014781903136453_3626506102794054539_n.png?ex=655177f5&is=653f02f5&hm=03ce9d465e1926d6a6bb50b89f4ebcf4a7fd3e38497724562ad7f00565b319f0&=&width=1346&height=806)

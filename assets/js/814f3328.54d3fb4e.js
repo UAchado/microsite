@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrosite=self.webpackChunkmicrosite||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Sprints","items":[{"title":"Sprint 2","permalink":"/microsite/blog/Sprint 2"},{"title":"Sprint 1","permalink":"/microsite/blog/Sprint 1"},{"title":"Team Presentation","permalink":"/microsite/blog/team_presentation"}]}')}}]);

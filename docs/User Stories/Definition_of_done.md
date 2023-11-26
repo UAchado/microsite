@@ -19,5 +19,3 @@ In agile software development, the "Definition of Done" (DoD) is a crucial set o
 3. Clears the predefined quality gate.
 
 4. PR reviewed and approved by a different team member.
-
-<!-- 5. Developer documentation updated or added in Docusaurus. -->

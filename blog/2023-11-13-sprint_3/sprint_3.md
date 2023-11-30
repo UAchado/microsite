@@ -4,7 +4,7 @@ title: Sprint 3
 authors: [paulo]
 ---
 
-# Sprint 2
+# Sprint 3
 
 **From**: 30/10/2023
 
@@ -14,7 +14,7 @@ authors: [paulo]
 
 **Product Owner:** Daniel Ferreira
 
-**Developers:** Raquel Paradinha, Miguel Matos, Tiago Carvalho
+**Developers:** Miguel Matos, Raquel Paradinha, Tiago Carvalho
 
 ## Sprint Planning
 
@@ -76,7 +76,7 @@ Incompleted goals:
 
 
 
-| Expected Concluded| Quantity |
+| Expected | Quantity |
 | --- | --- |
 | Story Points: | 9 |
 | Epics: | 0 |

@@ -14,7 +14,7 @@ authors: [canadiano]
 
 **Product Owner:** Tiago Carvalho
 
-**Developers:** Paulo Pinto, Raquel Paradinha, Miguel Matos
+**Developers:** Miguel Matos, Paulo Pinto, Raquel Paradinha
 
 ## Sprint Planning
 
@@ -30,7 +30,7 @@ In order to start our project, it is expectable to conclude the following sprint
     - Create GET all Drop-Off Points endpoint
     - Create webpage to display all the available drop-off points.
 
-| Expected Concluded| Quantity |
+| Expected | Quantity |
 | --- | --- |
 | Story Points: | 1 |
 | Epics: | 0 |

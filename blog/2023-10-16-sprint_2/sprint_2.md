@@ -14,7 +14,7 @@ authors: [raquel]
 
 **Product Owner:** Miguel Matos
 
-**Developers:** Paulo Pinto, Daniel Ferreira, Tiago Carvalho
+**Developers:** Daniel Ferreira, Paulo Pinto, Tiago Carvalho
 
 ## Sprint Planning
 
@@ -61,7 +61,7 @@ Incompleted goals:
 
 
 
-| Expected Concluded| Quantity |
+| Expected | Quantity |
 | --- | --- |
 | Story Points: | 9 |
 | Epics: | 0 |

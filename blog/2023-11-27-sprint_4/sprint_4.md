@@ -21,6 +21,7 @@ authors: [sora]
 In order to complete this sprint, it is expectable to conclude the following goals:
 
 
+- UAC-5 Attach Photos to Found Items
 - **UAC-10 EPIC** Personnel Can Authenticate
     - UAC-14 Attempt Login for Personnel
     - UAC-20 Successufully Login for Personnel
@@ -34,6 +35,19 @@ In order to complete this sprint, it is expectable to conclude the following goa
 - UAC-60 Redirect to Pickup Point
 - UAC-66 Create endpoint to store the images on the item storage
 - UAC-67 Create a trigger to archive retrieved items after a predefined time
+- UAC-71 Devise marketing plan
+
+Completed goals:
+
+- **UAC-10 EPIC** Personnel Can Authenticate
+    - UAC-14 Attempt Login for Personnel
+    - UAC-20 Successufully Login for Personnel
+    - UAC-21 Unsuccessufully Login for Personnel
+- UAC-12 Searching Found Items by Drop-Off Point
+- UAC-26 Searching Found Items by Tag
+- UAC-54 Implement CD pipelines
+- UAC-50 Setup images storage
+- UAC-56 Create Terraform script to provision infrastructure
 - UAC-71 Devise marketing plan
 
 Incompleted goals:

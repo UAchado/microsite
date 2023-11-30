@@ -4,10 +4,61 @@
         <title>UAchado Blog</title>
         <link>https://your-docusaurus-test-site.com/microsite/blog</link>
         <description>UAchado Blog</description>
-        <lastBuildDate>Mon, 13 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 4]]></title>
+            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</link>
+            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</guid>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 30/10/2023]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 30/10/2023</p>
+<p><strong>To</strong>: 13/11/2023</p>
+<p><strong>Scrum Master:</strong> Tiago Carvalho</p>
+<p><strong>Product Owner:</strong> Raquel Paradinha</p>
+<p><strong>Developers:</strong> Paulo Pinto, Miguel Matos, Daniel Ferreira</p>
+<h2 id="sprint-planning">Sprint Planning</h2>
+<p>In order to complete this sprint, it is expectable to conclude the following goals:</p>
+<ul>
+<li><strong>UAC-10 EPIC</strong> Personnel Can Authenticate<!-- -->
+<ul>
+<li>UAC-14 Attempt Login for Personnel</li>
+<li>UAC-20 Successufully Login for Personnel</li>
+<li>UAC-21 Unsuccessufully Login for Personnel</li>
+</ul>
+</li>
+<li>UAC-12 Searching Found Items by Drop-Off Point</li>
+<li>UAC-24 System Notification About an Found Item</li>
+<li>UAC-26 Searching Found Items by Tag</li>
+<li>UAC-54 Implement CD pipelines</li>
+<li>UAC-50 Setup images storage</li>
+<li>UAC-56 Create Terraform script to provision infrastructure</li>
+<li>UAC-60 Redirect to Pickup Point</li>
+<li>UAC-66 Create endpoint to store the images on the item storage</li>
+<li>UAC-67 Create a trigger to archive retrieved items after a predefined time</li>
+<li>UAC-71 Devise marketing plan</li>
+</ul>
+<p>Incompleted goals:</p>
+<ul>
+<li>UAC-5 Attach Photos to Found Items</li>
+<li>UAC-24 System Notification About an Found Item</li>
+<li>UAC-60 Redirect to Pickup Point</li>
+<li>UAC-66 Create endpoint to store the images on the item storage</li>
+<li>UAC-67 Create a trigger to archive retrieved items after a predefined time</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>22</td></tr><tr><td>Epics:</td><td>1</td></tr></tbody></table>
+<h2 id="sprint-review">Sprint Review</h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>18</td></tr><tr><td>Epics:</td><td>1</td></tr></tbody></table>
+<h2 id="sprint-retrospective">Sprint Retrospective</h2>
+<p>This sprint was one of the best sprints we had, both in terms of story point delivery as well as team cooperation. In terms of the user perspective, the Authentication epic is done.</p>
+<p>The Authentication epic was the first epic we concluded in the project. However, it does not mean the others are too behind. The remaining epics have approximately 2 to 3 stories to be done, so they can be concluded.</p>
+<p>Now the focus of our team aims to conclude the merging phase, so we can have a fully operational product and start testing its usability with real-life users. Since the user's interactivity is the major key to our project's success, we intend to make this product available as soon as possible.</p>
+<p>Besides, the technical details, we also enhanced our marketing techniques reaching a larger group of interested users, who eagerly await to have access to and use your product and its valuable functionalities.</p>
+<h2 id="sprint-burndown">Sprint Burndown</h2>
+<p><img src="https://media.discordapp.net/attachments/1153266163522994188/1179835261987848312/image.png?ex=657b3a36&amp;is=6568c536&amp;hm=4af807b1872ddeebb9c6db51f25cae967f16f537093fa82fa6443e813d4845b7&amp;=&amp;format=webp&amp;quality=lossless&amp;width=2566&amp;height=1026" alt="Sprint 4 Burndown"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 3]]></title>
             <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 3</link>
@@ -18,7 +69,7 @@
 <p><strong>To</strong>: 13/11/2023</p>
 <p><strong>Scrum Master:</strong> Paulo Pinto</p>
 <p><strong>Product Owner:</strong> Daniel Ferreira</p>
-<p><strong>Developers:</strong> Raquel Paradinha, Miguel Matos, Tiago Carvalho</p>
+<p><strong>Developers:</strong> Miguel Matos, Raquel Paradinha, Tiago Carvalho</p>
 <h2 id="sprint-planning">Sprint Planning</h2>
 <p>In order to complete this sprint, it is expectable to conclude the following goals:</p>
 <ul>
@@ -104,7 +155,7 @@
 <li>UAC-60 Redirect to Pickup Point</li>
 <li>UAC-67 Create a trigger to archive retrieved items after a predefined time</li>
 </ul>
-<table><thead><tr><th>Expected Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>9</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>9</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-review">Sprint Review</h2>
 <table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>7</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-retrospective">Sprint Retrospective</h2>
@@ -126,7 +177,7 @@ develop a Notifications System to keep users informed and engaged with real-time
 <p><strong>To</strong>: 30/10/2023</p>
 <p><strong>Scrum Master:</strong> Raquel Paradinha</p>
 <p><strong>Product Owner:</strong> Miguel Matos</p>
-<p><strong>Developers:</strong> Paulo Pinto, Daniel Ferreira, Tiago Carvalho</p>
+<p><strong>Developers:</strong> Daniel Ferreira, Paulo Pinto, Tiago Carvalho</p>
 <h2 id="sprint-planning">Sprint Planning</h2>
 <p>In order to complete this sprint, it is expectable to conclude the following goals:</p>
 <ul>
@@ -181,7 +232,7 @@ develop a Notifications System to keep users informed and engaged with real-time
 <li>UAC-5 Attach Tags to Found Items</li>
 <li>UAC-15 Attach Photos to Found Items</li>
 </ul>
-<table><thead><tr><th>Expected Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>9</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>9</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-review">Sprint Review</h2>
 <table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>5</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-retrospective">Sprint Retrospective</h2>
@@ -201,7 +252,7 @@ develop a Notifications System to keep users informed and engaged with real-time
 <p><strong>To</strong>: 16/10/2023</p>
 <p><strong>Scrum Master:</strong> Daniel Ferreira</p>
 <p><strong>Product Owner:</strong> Tiago Carvalho</p>
-<p><strong>Developers:</strong> Paulo Pinto, Raquel Paradinha, Miguel Matos</p>
+<p><strong>Developers:</strong> Miguel Matos, Paulo Pinto, Raquel Paradinha</p>
 <h2 id="sprint-planning">Sprint Planning</h2>
 <p>In order to start our project, it is expectable to conclude the following sprint goals:</p>
 <ul>
@@ -217,7 +268,7 @@ develop a Notifications System to keep users informed and engaged with real-time
 </ul>
 </li>
 </ul>
-<table><thead><tr><th>Expected Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>1</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>1</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-review">Sprint Review</h2>
 <table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>0</td></tr><tr><td>Epics:</td><td>0</td></tr></tbody></table>
 <h2 id="sprint-retrospective">Sprint Retrospective</h2>]]></content:encoded>

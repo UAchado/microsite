@@ -79,13 +79,11 @@ Incompleted goals:
 
 ## Sprint Retrospective
 
-This sprint was one of the best sprints we had, both in terms of story point delivery as well as team cooperation. In terms of the user perspective, the Authentication epic is done.
+During this sprint, we focused on finishing up the functionality of the application, and solidify the deployment and instantiation of infrastructure.
 
-The Authentication epic was the first epic we concluded in the project. However, it does not mean the others are too behind. The remaining epics have approximately 2 to 3 stories to be done, so they can be concluded.
+Overall, we managed to deliver a greater part of the user stories we had planned for this sprint. However, we didn't manage to completely finish all tasks. The most problems came from the infrastructure instantiation mechanisms and the attempt at integrating with Cognito.
 
-Now the focus of our team aims to conclude the merging phase, so we can have a fully operational product and start testing its usability with real-life users. Since the user's interactivity is the major key to our project's success, we intend to make this product available as soon as possible.
-
-Besides, the technical details, we also enhanced our marketing techniques reaching a larger group of interested users, who eagerly await to have access to and use your product and its valuable functionalities.
+In the end, we feel like we underestimated the amount of effort that needs to be put into the final steps of the project. We had a lot of unexpected problems, such as constant CORS issues.
 
 ## Sprint Burndown
 

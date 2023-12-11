@@ -4,10 +4,75 @@
         <title>UAchado Blog</title>
         <link>https://your-docusaurus-test-site.com/microsite/blog</link>
         <description>UAchado Blog</description>
-        <lastBuildDate>Mon, 27 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 5]]></title>
+            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 5</link>
+            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 5</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 14/11/2023]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 14/11/2023</p>
+<p><strong>To</strong>: 11/12/2023</p>
+<p><strong>Scrum Master:</strong> Miguel Matos</p>
+<p><strong>Product Owner:</strong> Paulo Pinto</p>
+<p><strong>Developers:</strong> Raquel Paradinha, Tiago Carvalho, Daniel Ferreira</p>
+<h2 id="sprint-planning">Sprint Planning</h2>
+<p>In order to complete this sprint, it is expectable to conclude the following goals:</p>
+<ul>
+<li>UAC-7 Providing System Feedback</li>
+<li>UAC-15 Attach Photos to Found</li>
+<li>UAC-23 User Reports a Lost Item</li>
+<li>UAC-24 System Notification About an Found Item</li>
+<li>UAC-60 Redirect to Pickup Point</li>
+<li>UAC-66 Create endpoint to store the images on the item storage</li>
+<li>UAC-67 Create a trigger to archive retrieved items after a predefined time</li>
+<li>UAC-72 Create endpoint to list items using pagination</li>
+<li>UAC-75 Responsiveness on all pages</li>
+<li>UAC-76 Landing Page</li>
+<li>UAC-77 Get directions from my location to drop-off-point</li>
+<li>UAC-80 Associate user's email to retrieved item - backend</li>
+<li>UAC-81 Migrate from EC2 to ECS</li>
+<li>UAC-82 Change docker file build method</li>
+<li>UAC-83 Associate user's email to retrieved item - frontend</li>
+<li>UAC-84 Perpetuate marketing plan</li>
+<li>UAC-85 Integrate Cognito with the frontend</li>
+</ul>
+<p>Completed goals:</p>
+<ul>
+<li>UAC-7 Providing System Feedback</li>
+<li>UAC-15 Attach Photos to Found</li>
+<li>UAC-23 User Reports a Lost Item</li>
+<li>UAC-24 System Notification About an Found Item</li>
+<li>UAC-60 Redirect to Pickup Point</li>
+<li>UAC-66 Create endpoint to store the images on the item storage</li>
+<li>UAC-67 Create a trigger to archive retrieved items after a predefined time</li>
+<li>UAC-72 Create endpoint to list items using pagination</li>
+<li>UAC-75 Responsiveness on all pages</li>
+<li>UAC-76 Landing Page</li>
+<li>UAC-77 Get directions from my location to drop-off-point</li>
+<li>UAC-80 Associate user's email to retrieved item - backend</li>
+<li>UAC-82 Change docker file build method</li>
+<li>UAC-83 Associate user's email to retrieved item - frontend</li>
+</ul>
+<p>Incompleted goals:</p>
+<ul>
+<li>UAC-81 Migrate from EC2 to ECS</li>
+<li>UAC-84 Perpetuate marketing plan</li>
+<li>UAC-85 Integrate Cognito with the frontend</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>17</td></tr><tr><td>Epics:</td><td>4</td></tr></tbody></table>
+<h2 id="sprint-review">Sprint Review</h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Story Points:</td><td>17</td></tr><tr><td>Epics:</td><td>4</td></tr></tbody></table>
+<h2 id="sprint-retrospective">Sprint Retrospective</h2>
+<p>During this sprint, we focused on finishing up the functionality of the application, and solidify the deployment and instantiation of infrastructure.</p>
+<p>Overall, we managed to deliver a greater part of the user stories we had planned for this sprint. However, we didn't manage to completely finish all tasks. The most problems came from the infrastructure instantiation mechanisms and the attempt at integrating with Cognito.</p>
+<p>In the end, we feel like we underestimated the amount of effort that needs to be put into the final steps of the project. We had a lot of unexpected problems, such as constant CORS issues.</p>
+<h2 id="sprint-burndown">Sprint Burndown</h2>
+<p><img src="https://media.discordapp.net/attachments/1162783198359605399/1183615881742397501/Screenshot_2023-12-11_at_03.44.53.png?ex=6588fb30&amp;is=65768630&amp;hm=97e0d0a63b40f3c81e49b7cf34f7064ad1f5add4040cea2638fc460065181f11&amp;=&amp;width=2160&amp;height=642" alt="Sprint 5 Burndown"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 4]]></title>
             <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</link>
@@ -294,7 +359,7 @@ develop a Notifications System to keep users informed and engaged with real-time
             <title><![CDATA[Team Presentation]]></title>
             <link>https://your-docusaurus-test-site.com/microsite/blog/team_presentation</link>
             <guid>https://your-docusaurus-test-site.com/microsite/blog/team_presentation</guid>
-            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This is Team 2 of Software Engineer course:]]></description>
             <content:encoded><![CDATA[<br>
 <p>This is <strong>Team 2</strong> of Software Engineer course:</p>

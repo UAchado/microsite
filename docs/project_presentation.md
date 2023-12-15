@@ -18,18 +18,21 @@ By harnessing the power of technology, this initiative not only enhances the eff
 **Jira:** https://uachado.atlassian.net/jira/software/projects/UAC/boards/2 
 
 
-## Architecture
+## Our Team 
 
-![UAchado Architecture](/img/arquitetura.png)
+This is **Team 2** of Software Engineer course from 2023/2024:
 
+- [**Daniel Ferreira**](https://github.com/dferrero17)
+  - *Student Number: 102422*
+- [**Miguel Matos**](https://github.com/mankings)
+  - *Student Number: 103341*
+- [**Paulo Pinto**](https://github.com/Pjnp5)
+    - *Student Number: 103234*
+- [**Raquel Paradinha**](https://github.com/raquelparadinha)
+    - *Student Number: 102491*
+- [**Tiago Carvalho**](https://github.com/tiagosora)
+    - *Student Number: 104142*
 
-## Tecnologies
-
-| Module | Tech |
-| --- | --- |
-| UI's | React + Docker |
-| Drop-Off Points API | FastAPI + Docker + mySQL |
-| Report API | FastAPI + Docker + mySQL |
-| Inventory API | FastAPI + Docker + mySQL + AWS S3 |
-| IDP | AWS Cognito |
-| System Logs | AWS Cloudwatch |
+Teachers:
+- [**Nuno Sá Couto**](https://github.com//nunoscouto)
+- [**Rafael Direito**](https://github.com/rafael-direito)

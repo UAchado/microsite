@@ -45,14 +45,14 @@ So, for the **Identity Provider**, we used AWS Cognito to create, store and mana
 
 ### Tecnologies
 
-| Module             | Technologies                                |
-|--------------------|---------------------------------------------|
-| API Gateway        | ----------------                            |
-| UI                 | React + Docker                              |
+| Module             | Technologies                                 |
+|--------------------|----------------------------------------------|
+| API Gateway        | ----------------                             |
+| UI                 | React + Docker                               |
 | Drop-Off Points API | FastAPI + Docker + mySQL + AWS RDS          |
-| Inventory API      | FastAPI + Docker + mySQL + AWS RDS + AWS S3 |
-| IDP                | AWS Cognito                                 |
-| System Logs        | AWS Cloudwatch                              |
+| Inventory API      | FastAPI + Docker + mySQL + AWS RDS + AWS S3  |
+| IDP                | AWS Cognito                                  |
+| System Logs        | AWS Cloudwatch                               |
 
 
 

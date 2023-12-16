@@ -6,11 +6,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UAchado',
+  title: 'UAchado Documentation',
   favicon: 'https://github.com/UAchado.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://uachado.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/microsite/',
@@ -78,6 +78,21 @@ const config = {
             label: 'Sprints',
             position: 'left',
           },
+          {
+            to: "http://uachado.pt/",
+            label: "UAchado",
+            position: "right",
+          },
+          {
+            to: "https://uachado.atlassian.net/jira/software/projects/UAC/boards/2",
+            label: "Jira",
+            position: "right",
+          },
+          {
+            to: "https://github.com/uachado",
+            label: "GitHub",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -91,7 +106,7 @@ const config = {
                 to: '/docs/project_presentation',
               },
               {
-                label: 'Sprint',
+                label: 'Sprints',
                 to: '/blog',
               },
             ],
@@ -112,12 +127,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/UAchado',
+                label: 'UAchado',
+                href: 'http://uachado.pt',
               },
               {
                 label: 'Jira',
                 href: 'https://uachado.atlassian.net/jira/software/projects/UAC/boards/2',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/UAchado',
               },
             ],
           },

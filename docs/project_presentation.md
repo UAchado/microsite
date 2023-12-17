@@ -19,10 +19,11 @@ ultimately fostering a stronger sense of community and accountability within the
 streamline and modernize the process of reuniting individuals with their lost items, reducing frustration, and enhancing the 
 overall campus experience.
 
-
-**Github Organization:** https://github.com/UAchado
+**UAchado Website:** http://uachado.pt/
 
 **Jira:** https://uachado.atlassian.net/jira/software/projects/UAC/boards/2
+
+**Github Organization:** https://github.com/UAchado
 
 
 ## Our Team

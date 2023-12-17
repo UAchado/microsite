@@ -10,15 +10,15 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)} style={{ backgroundColor: "#BF8F48" }}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)} style={{ backgroundColor: "#F2E9E4" }}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
+        <h1 className="hero__title" style={{ color: "#C26F4D"}}>{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/project_presentation">
-            "Keep losing stuff, that's alright!"
+            to="/docs/project_presentation" style={{ color: "#332A28", backgroundColor: "#F2E9E4" }}>
+            na UA, nada se perde, tudo se UAcha
           </Link>
         </div>
       </div>

@@ -97,7 +97,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
+        /*links: [
           {
             title: 'Docs',
             items: [
@@ -140,7 +140,7 @@ const config = {
               },
             ],
           },
-        ],
+        ],*/
         copyright: `Copyright © ${new Date().getFullYear()} ES`,
       },
       prism: {

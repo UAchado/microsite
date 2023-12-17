@@ -45,7 +45,7 @@ So, for the **Identity Provider**, we used AWS Cognito to create, store and mana
 
 ## System Architecture
 
-![UAchado Architecture](/img/arquitetura.png)
+![UAchado Architecture](/img/architecture.png)
 
 
 ### Tecnologies

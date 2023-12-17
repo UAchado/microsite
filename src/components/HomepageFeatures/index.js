@@ -38,7 +38,7 @@ function Feature({image, title, description}) {
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
           <div>
-              <img alt={title} src={image} width={"150px"}/>
+              <img alt={title} src={image} width={"250px"}/>
           </div>
           <h3>{title}</h3>
           <p>{description}</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/microsite/blog</id>
-    <title>UAchado Blog</title>
+    <id>https://uachado.github.io/microsite/blog</id>
+    <title>UAchado Documentation Blog</title>
     <updated>2023-12-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/microsite/blog"/>
-    <subtitle>UAchado Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/microsite/https://github.com/UAchado.png</icon>
+    <link rel="alternate" href="https://uachado.github.io/microsite/blog"/>
+    <subtitle>UAchado Documentation Blog</subtitle>
+    <icon>https://uachado.github.io/microsite/https://github.com/UAchado.png</icon>
     <entry>
         <title type="html"><![CDATA[Sprint 5]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/Sprint 5</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/Sprint 5"/>
+        <id>https://uachado.github.io/microsite/blog/Sprint 5</id>
+        <link href="https://uachado.github.io/microsite/blog/Sprint 5"/>
         <updated>2023-12-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From: 14/11/2023]]></summary>
         <content type="html"><![CDATA[<p><strong>From</strong>: 14/11/2023</p>
@@ -78,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 4]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/Sprint 4"/>
+        <id>https://uachado.github.io/microsite/blog/Sprint 4</id>
+        <link href="https://uachado.github.io/microsite/blog/Sprint 4"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From: 30/10/2023]]></summary>
         <content type="html"><![CDATA[<p><strong>From</strong>: 30/10/2023</p>
@@ -150,8 +150,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 3]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/Sprint 3</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/Sprint 3"/>
+        <id>https://uachado.github.io/microsite/blog/Sprint 3</id>
+        <link href="https://uachado.github.io/microsite/blog/Sprint 3"/>
         <updated>2023-11-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From: 30/10/2023]]></summary>
         <content type="html"><![CDATA[<p><strong>From</strong>: 30/10/2023</p>
@@ -262,8 +262,8 @@ develop a Notifications System to keep users informed and engaged with real-time
     </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 2]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/Sprint 2</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/Sprint 2"/>
+        <id>https://uachado.github.io/microsite/blog/Sprint 2</id>
+        <link href="https://uachado.github.io/microsite/blog/Sprint 2"/>
         <updated>2023-10-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From: 16/10/2023]]></summary>
         <content type="html"><![CDATA[<p><strong>From</strong>: 16/10/2023</p>
@@ -341,8 +341,8 @@ develop a Notifications System to keep users informed and engaged with real-time
     </entry>
     <entry>
         <title type="html"><![CDATA[Sprint 1]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/Sprint 1</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/Sprint 1"/>
+        <id>https://uachado.github.io/microsite/blog/Sprint 1</id>
+        <link href="https://uachado.github.io/microsite/blog/Sprint 1"/>
         <updated>2023-10-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From: 02/10/2023]]></summary>
         <content type="html"><![CDATA[<p><strong>From</strong>: 02/10/2023</p>
@@ -375,42 +375,15 @@ develop a Notifications System to keep users informed and engaged with real-time
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Team Presentation]]></title>
-        <id>https://your-docusaurus-test-site.com/microsite/blog/team_presentation</id>
-        <link href="https://your-docusaurus-test-site.com/microsite/blog/team_presentation"/>
+        <title type="html"><![CDATA[The Team]]></title>
+        <id>https://uachado.github.io/microsite/blog/team_presentation</id>
+        <link href="https://uachado.github.io/microsite/blog/team_presentation"/>
         <updated>2023-10-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is Team 2 of Software Engineer course:]]></summary>
-        <content type="html"><![CDATA[<br>
-<p>This is <strong>Team 2</strong> of Software Engineer course:</p>
-<ul>
-<li><strong>Paulo Pinto</strong>
-<ul>
-<li><em>Student Number: 103234</em></li>
-</ul>
-</li>
-<li><strong>Miguel Matos</strong>
-<ul>
-<li><em>Student Number: 103341</em></li>
-</ul>
-</li>
-<li><strong>Raquel Paradinha</strong>
-<ul>
-<li><em>Student Number: 102491</em></li>
-</ul>
-</li>
-<li><strong>Daniel Ferreira</strong>
-<ul>
-<li><em>Student Number: 102422</em></li>
-</ul>
-</li>
-<li><strong>Tiago Carvalho</strong>
-<ul>
-<li><em>Student Number: 104142</em></li>
-</ul>
-</li>
-</ul>
-<p>Sprint Roles:</p>
-<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Daniel Ferreira</td><td>Tiago Carvalho</td><td>Paulo Pinto, Raquel Paradinha, Miguel Matos</td></tr></tbody></table>]]></content>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<p>During the development of our application we spread the work to be done by sprints. In each one of these sprints, each team
+member had a different role, with different responsibilities. The distribution made is listed bellow.</p>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Daniel Ferreira</td><td>Tiago Carvalho</td><td>Paulo Pinto, Raquel Paradinha, Miguel Matos</td></tr><tr><td>2</td><td>Raquel Paradinha</td><td>Miguel Matos</td><td>Paulo Pinto, Tiago Carvalho, Daniel Ferreira</td></tr><tr><td>3</td><td>Paulo Pinto</td><td>Daniel Ferreira</td><td>Miguel Matos, Raquel Paradinha, Tiago Carvalho</td></tr><tr><td>4</td><td>Tiago Carvalho</td><td>Raquel Paradinha</td><td>Paulo Pinto, Miguel Matos, Daniel Ferreira</td></tr><tr><td>5</td><td>Miguel Matos</td><td>Paulo Pinto</td><td>Raquel Paradinha, Tiago Carvalho, Daniel Ferreira</td></tr></tbody></table>]]></content>
         <author>
             <name>Paulo Pinto</name>
             <uri>https://github.com/Pjnp5</uri>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>UAchado Blog</title>
-        <link>https://your-docusaurus-test-site.com/microsite/blog</link>
-        <description>UAchado Blog</description>
+        <title>UAchado Documentation Blog</title>
+        <link>https://uachado.github.io/microsite/blog</link>
+        <description>UAchado Documentation Blog</description>
         <lastBuildDate>Mon, 11 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Sprint 5]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 5</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 5</guid>
+            <link>https://uachado.github.io/microsite/blog/Sprint 5</link>
+            <guid>https://uachado.github.io/microsite/blog/Sprint 5</guid>
             <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From: 14/11/2023]]></description>
             <content:encoded><![CDATA[<p><strong>From</strong>: 14/11/2023</p>
@@ -75,8 +75,8 @@
         </item>
         <item>
             <title><![CDATA[Sprint 4]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 4</guid>
+            <link>https://uachado.github.io/microsite/blog/Sprint 4</link>
+            <guid>https://uachado.github.io/microsite/blog/Sprint 4</guid>
             <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From: 30/10/2023]]></description>
             <content:encoded><![CDATA[<p><strong>From</strong>: 30/10/2023</p>
@@ -143,8 +143,8 @@
         </item>
         <item>
             <title><![CDATA[Sprint 3]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 3</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 3</guid>
+            <link>https://uachado.github.io/microsite/blog/Sprint 3</link>
+            <guid>https://uachado.github.io/microsite/blog/Sprint 3</guid>
             <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From: 30/10/2023]]></description>
             <content:encoded><![CDATA[<p><strong>From</strong>: 30/10/2023</p>
@@ -251,8 +251,8 @@ develop a Notifications System to keep users informed and engaged with real-time
         </item>
         <item>
             <title><![CDATA[Sprint 2]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 2</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 2</guid>
+            <link>https://uachado.github.io/microsite/blog/Sprint 2</link>
+            <guid>https://uachado.github.io/microsite/blog/Sprint 2</guid>
             <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From: 16/10/2023]]></description>
             <content:encoded><![CDATA[<p><strong>From</strong>: 16/10/2023</p>
@@ -326,8 +326,8 @@ develop a Notifications System to keep users informed and engaged with real-time
         </item>
         <item>
             <title><![CDATA[Sprint 1]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/Sprint 1</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/Sprint 1</guid>
+            <link>https://uachado.github.io/microsite/blog/Sprint 1</link>
+            <guid>https://uachado.github.io/microsite/blog/Sprint 1</guid>
             <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From: 02/10/2023]]></description>
             <content:encoded><![CDATA[<p><strong>From</strong>: 02/10/2023</p>
@@ -356,42 +356,15 @@ develop a Notifications System to keep users informed and engaged with real-time
 <h2 id="sprint-retrospective">Sprint Retrospective</h2>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Team Presentation]]></title>
-            <link>https://your-docusaurus-test-site.com/microsite/blog/team_presentation</link>
-            <guid>https://your-docusaurus-test-site.com/microsite/blog/team_presentation</guid>
+            <title><![CDATA[The Team]]></title>
+            <link>https://uachado.github.io/microsite/blog/team_presentation</link>
+            <guid>https://uachado.github.io/microsite/blog/team_presentation</guid>
             <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is Team 2 of Software Engineer course:]]></description>
-            <content:encoded><![CDATA[<br>
-<p>This is <strong>Team 2</strong> of Software Engineer course:</p>
-<ul>
-<li><strong>Paulo Pinto</strong>
-<ul>
-<li><em>Student Number: 103234</em></li>
-</ul>
-</li>
-<li><strong>Miguel Matos</strong>
-<ul>
-<li><em>Student Number: 103341</em></li>
-</ul>
-</li>
-<li><strong>Raquel Paradinha</strong>
-<ul>
-<li><em>Student Number: 102491</em></li>
-</ul>
-</li>
-<li><strong>Daniel Ferreira</strong>
-<ul>
-<li><em>Student Number: 102422</em></li>
-</ul>
-</li>
-<li><strong>Tiago Carvalho</strong>
-<ul>
-<li><em>Student Number: 104142</em></li>
-</ul>
-</li>
-</ul>
-<p>Sprint Roles:</p>
-<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Daniel Ferreira</td><td>Tiago Carvalho</td><td>Paulo Pinto, Raquel Paradinha, Miguel Matos</td></tr></tbody></table>]]></content:encoded>
+            <description><![CDATA[---]]></description>
+            <content:encoded><![CDATA[<hr>
+<p>During the development of our application we spread the work to be done by sprints. In each one of these sprints, each team
+member had a different role, with different responsibilities. The distribution made is listed bellow.</p>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Daniel Ferreira</td><td>Tiago Carvalho</td><td>Paulo Pinto, Raquel Paradinha, Miguel Matos</td></tr><tr><td>2</td><td>Raquel Paradinha</td><td>Miguel Matos</td><td>Paulo Pinto, Tiago Carvalho, Daniel Ferreira</td></tr><tr><td>3</td><td>Paulo Pinto</td><td>Daniel Ferreira</td><td>Miguel Matos, Raquel Paradinha, Tiago Carvalho</td></tr><tr><td>4</td><td>Tiago Carvalho</td><td>Raquel Paradinha</td><td>Paulo Pinto, Miguel Matos, Daniel Ferreira</td></tr><tr><td>5</td><td>Miguel Matos</td><td>Paulo Pinto</td><td>Raquel Paradinha, Tiago Carvalho, Daniel Ferreira</td></tr></tbody></table>]]></content:encoded>
         </item>
     </channel>
 </rss>

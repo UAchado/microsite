@@ -2,6 +2,8 @@
 sidebar_label: 'Architecture'
 sidebar_position: 2
 ---
+import React from 'react';
+import ArchitectureImage from '/img/architecture_simple.png';
 
 # Architecture
 
@@ -13,6 +15,7 @@ The **UI** of our system consists of a React application. This module allows the
 the bridge between them and the application logic and functionality. This component is hosted in an AWS EC2 instance.
 
 Check the UI [repository](https://github.com/UAchado/user_ui).
+
 ### Drop-Off Points API
 
 About the backend, in our system we have the two APIs. The first one, **Drop-Off Points**, is responsible for the management 
@@ -34,32 +37,19 @@ Check the API [documentation](https://app.swaggerhub.com/apis/TIAGOGCARVALHO2002
 In the *UAchado* system, only the staff of each drop-off point has to be authenticated to use the application. 
 So, for the **Identity Provider**, we used AWS Cognito to create, store and manage these identities.
 
-### API Gateway
+### System Logs and Metrics
+
+The system collects data about itself and its inner logic to provide insightful information to system administrators. Among others, collected data consists of:
+ - container logs, cpu and memory usage
+ - database  metrics (connections, memory available, free storage, cpu, read/write latency, read/write throughput, read/write operations per second (OPS))
+
+## Microservices Architecture
 
 
-### System Logs 
+<img src={ArchitectureImage} alt="UAchado Microservices Architecture" height="606px"/>
 
-
-
-
-
-## System Architecture
-
-![UAchado Architecture](/img/architecture.png)
-
-
-### Tecnologies
-
-| Module             | Technologies                                 |
-|--------------------|----------------------------------------------|
-| API Gateway        | ----------------                             |
-| UI                 | React + Docker                               |
-| Drop-Off Points API | FastAPI + Docker + mySQL + AWS RDS          |
-| Inventory API      | FastAPI + Docker + mySQL + AWS RDS + AWS S3  |
-| IDP                | AWS Cognito                                  |
-| System Logs        | AWS Cloudwatch                               |
-
-
+[//]: # (![UAchado Microservices Architecture]&#40;/img/architecture_simple.png&#41;)
 
 
 ## Cloud Architecture
+![UAchado Cloud Architecture](/img/architecture_cloud_resized.png)
